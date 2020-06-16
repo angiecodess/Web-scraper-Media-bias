@@ -1,1 +1,2 @@
 # Web-scraper-Media-bias
+Where do news sources fall on the political bias spectrum? In this project, I scraped data on https://www.allsides.com/media-bias/media-bias-ratings, parsed out the interesting/useful data, and did some data analysis to see which ratings for outlets does the community absolutely agree on, compare the ratio of those who agree to those who disagree, and created some visualizations.
